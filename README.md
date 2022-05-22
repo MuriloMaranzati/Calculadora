@@ -1,2 +1,2 @@
-# Calculadora
+# Calculadora 🏫👩‍🏫📚🔢📐
 Código (Python) Calculadora...
